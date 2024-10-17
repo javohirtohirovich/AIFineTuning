@@ -1,0 +1,1 @@
+FROM ./outputs/mistral_finetune_model_gguf/unsloth.Q8_0.gguf
